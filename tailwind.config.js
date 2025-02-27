@@ -2,7 +2,7 @@
 export default {
   content: ['./views/**/*.ejs'],
   theme: {
-    extend: {},
+    extend: {}
   },
-  plugins: [],
+  plugins: []
 };
